@@ -1,0 +1,4 @@
+multimedia,132,45.3,4
+Data,145,55.4,7
+pattern,155,65.5,9
+Graphics,165,75.6,11
